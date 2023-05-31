@@ -1,0 +1,15 @@
+Hello
+this
+is 
+a
+practice
+file
+for
+a
+python
+assignment
+I
+am
+working
+on
+today.
